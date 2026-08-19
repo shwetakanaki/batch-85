@@ -6,4 +6,5 @@ print(a)
 b=80
 print(b)
 prit(a+b)
-
+d=a*b
+print(d)
